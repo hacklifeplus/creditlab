@@ -1,4 +1,4 @@
-Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,score,label_score
+Age,Sex,Job,Housing,Saving accounts,Checking account,Credit amount,Duration,Purpose,score,label_value
 67,1,2,1,0,0,1169,6,5,1,1
 22,0,2,1,0,1,5951,48,5,0,1
 49,1,1,1,0,0,2096,12,3,1,1
